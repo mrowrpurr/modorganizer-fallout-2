@@ -14,7 +14,7 @@ class Fallout2Game(BasicGame):
     GameNexusId = 430
     GameSteamId = 38410
     GameGogId = 1440166436 # https://embed.gog.com/games/ajax/filtered?mediaType=game&search=Fallout%202
-    GameBinary = "fallout2.exe"
+    GameBinary = "fallout2HR.exe"
     GameDataPath = "%GAME_PATH%"
 
     # def iniFiles(self):
